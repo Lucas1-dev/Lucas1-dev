@@ -11,7 +11,7 @@
 
 - 🧠 I'm learning a new framework
 
-- 🤝 I'm open to collaborating on interesting project### Skills
+- 🤝 I'm open to collaborating on interesting project
 
 - 📫 How to reach me **truongthanhh88@gmail.com**
 
@@ -83,6 +83,7 @@
         alt="Top Languages" /></a>
 
 
+______________________________________________________________________________________________________
 
 
 
@@ -97,11 +98,3 @@
 </p>
 
 
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/truongthanh"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="truongthanh" /></a></p><br><br>
